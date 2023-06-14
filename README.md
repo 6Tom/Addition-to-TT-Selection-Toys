@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/6Tom/Addition-to-TT-Selection-Toys?color=blue)](./LICENSE)
 
-This is a small addition to the SketchUp extension "[TT Selection Toys](https://github.com/thomthom/SelectionTools)" created by [Thomas Thomassen](https://github.com/thomthom).
+This is a small addition to the SketchUp extension "[TT Selection Toys](https://github.com/thomthom/SelectionTools)" which was created by [Thomas Thomassen](https://github.com/thomthom).
 
 ## Features
 
