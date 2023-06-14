@@ -14,7 +14,7 @@ All the credit and contributions come from [Thomas Thomassen](https://github.com
 
 ## Usage
 
-You need to download the original extension and install it to SketchUp from one of the following websites:
+You need to download the original extension from one of the following websites and install it to SketchUp:
 - https://extensions.sketchup.com/extension/c9266b2c-0b55-4d21-a0a4-72e23b8a0fb4/selection-toys
 - https://sketchucation.com/plugin/738-tt_selection_toys
 - https://github.com/thomthom/SelectionTools
