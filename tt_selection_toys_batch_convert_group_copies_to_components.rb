@@ -15,7 +15,7 @@
 # Currently, feel free to redistribute or modify this script under the GNU GPL v2 license.
 
 # 6Tom
-# 2023.05.20
+# 2023-05-20
 # https://github.com/6Tom
 
 # ------------------------------------------------------------------------------------------------------------------------
@@ -80,18 +80,18 @@ module TT
 
                     # --------------------------------------------------------------------------------
 
-                end # until
+                end  # until
 
                 model.commit_operation
                 Sketchup.set_status_text(protodef.instances.length.to_s + ' group copies converted into components', SB_PROMPT)
 
-            end # batch_convert_group_copies_to_components
+            end  # batch_convert_group_copies_to_components
 
             UI.menu("Plugins").add_item("Group to Component (&`)"){ self.batch_convert_group_copies_to_components } unless file_loaded?(__FILE__)
 
-        end # module SelectionToys
-    end # module Plugins
-end # module TT
+        end  # module SelectionToys
+    end  # module Plugins
+end  # module TT
 
 
 # ------------------------------------------------------------------------------------------------------------------------
