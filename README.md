@@ -31,9 +31,14 @@ The [original project](https://github.com/thomthom/SelectionTools) does not spec
 
 I temporarily specify that this script is licensed under the [GNU GPL v2 license](./LICENSE).
 
-I haven't asked Thomas Thomassen yet, there may be changes in the future.
+I haven't asked [Thomas Thomassen](https://github.com/thomthom) yet, there may be changes in the future.
 
 Currently, feel free to redistribute or modify this script under the [GNU GPL v2 license](./LICENSE).
+
+## Changelog
+
+- **v1.0.0** (2023-05-20)
+    - First release
 
 ## About Me
 
